@@ -19,7 +19,9 @@ ul {
     padding: 0;
 }
 
-h1, p {
+h1,
+h2,
+p {
     margin: 0;
 }
 
@@ -36,6 +38,6 @@ h1, p {
     height: 1px;
     background-color: var(--color-main-black);
     border: none;
-    margin: 0-auto;
+    margin: 0 auto;
 }
 
